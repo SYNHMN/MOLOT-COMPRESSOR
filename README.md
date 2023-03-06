@@ -7,4 +7,4 @@ Kopf Stein Pflaster
 
 ## Preview
 
-![](https://raw.githubusercontent.com/SYNHMN/MOLOT/main/preview/Preview-1.png)
+![](https://raw.githubusercontent.com/SYNHMN/MOLOT-COMPRESSOR/main/preview/Preview-1.png)
